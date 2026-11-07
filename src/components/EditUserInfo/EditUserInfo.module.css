@@ -1,0 +1,11 @@
+.formEditUserInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.editContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}

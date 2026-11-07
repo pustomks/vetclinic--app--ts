@@ -1,0 +1,14 @@
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.d-flex {
+  display: flex;
+}
+
+.ant-message {
+  top: 60px !important;
+  z-index: 999 !important;
+}
